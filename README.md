@@ -2,5 +2,6 @@ The game from https://py.checkio.org/
 
 My progress:
 
-Elementary - Done
-Home - begin
+Elementary - All Done;
+
+Home - elementary - done;
